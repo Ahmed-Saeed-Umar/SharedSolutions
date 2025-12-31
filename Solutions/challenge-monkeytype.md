@@ -1,11 +1,11 @@
 BUILD YOUR OWN MONKEYTYPE
 
-The Challenge: https://codingchallenges.fyi/challenges/challenge-monkeytype
+The Challenge: [Build your own Monkeytype](https://codingchallenges.fyi/challenges/challenge-monkeytype)
 
 The Shared Solution:
 
-Solution: ApeMonkey
+Solution: [ApeMonkey](https://github.com/Ahmed-Saeed-Umar/ApeType)
 
 Language: Javascript
 
-Author: https://github.com/Ahmed-Saeed-Umar
+Author: [Ahmed Saeed Umar](https://github.com/Ahmed-Saeed-Umar)
