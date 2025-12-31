@@ -4,7 +4,7 @@ The Challenge: [Build your own Monkeytype](https://codingchallenges.fyi/challeng
 
 The Shared Solution:
 
-Solution: [ApeMonkey](https://github.com/Ahmed-Saeed-Umar/ApeType)
+Solution: [ApeType](https://github.com/Ahmed-Saeed-Umar/ApeType)
 
 Language: Javascript
 
